@@ -1,8 +1,8 @@
-# Electron Korea meet-up materials
+# Electron Korea Meetup
 
 > Electron Korea meet-up Materials such as presentation, sample code for code-lab and links
 
-## Meet-ups
+## Meetups
 
 ### [Electron Korea Meet-up #1 in Seoul](http://www.meetup.com/electron-kr/events/226252583/)
 
