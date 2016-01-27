@@ -11,7 +11,7 @@
 ### [Electron Korea Meet-up #2 in Seoul](http://www.meetup.com/electron-kr/events/226416682/)
 
 - [Introduce how to get started Electron(일렉트론 한다(자)고 전해라)](http://electron-kr.github.io/meetup/meetup-2016-01-27/introduce-how-to-get-started-with-electron) from [@Jimmy Moon](https://github.com/ragingwind), Organizer of Electron Korea
-- [Make a desktop app with Electron and React PhotonKit](http://www.slideshare.net/importre/munchkin-57537937/1)(일렉트론과 React PhotonKit 으로 만드는 데스크탑앱) by [@importe](http://import.re/), Riiid!, Organizer of Electron Korea
+- [Make a desktop app with Electron and React PhotonKit(일렉트론과 React PhotonKit 으로 만드는 데스크탑앱)](http://www.slideshare.net/importre/munchkin-57537937/1) by [@importe](http://import.re/), Riiid!, Organizer of Electron Korea
 - [Using Electron in commercial project(일렉트론 실무 적용사례)](https://www.slideshare.net/secret/pwXPLbKTLxaIza) by Scotty Kim, Studio XID
 
 # License
