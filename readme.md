@@ -9,7 +9,7 @@
 - [What's new in Electron 1.0](http://electron-kr.github.io/meetup/meetup-2016-06-29/whats-new-in-electorn-1.0/) from [@Jimmy Moon](https://github.com/ragingwind), Organizer of Electron Korea
 - [일렉트론 삽질기](http://www.slideshare.net/JungYoungKim/ss-63559085) by 김정용, 엔트리교육연구소
 - [리멤버 데스크톱 앱 개발기 - 최소 비용으로 새로운 플랫폼 지원하기](http://www.slideshare.net/tomkim336/ss-63591419) by 김담형, DRAMA&COMPANY
-- [Bay Area Electron Meet-up 참석기 & ProtoPie 소개 - 김성훈(Scotty Kim, Studio XID)]() by Scotty Kim, Studio XID (추후업데이트)
+- [Bay Area Electron Meet-up 참석기 & ProtoPie 소개 - 김성훈(Scotty Kim, Studio XID)](https://www.youtube.com/watch?v=1VdCgPOLl6M) by Scotty Kim, Studio XID
 
 ### [Electron Korea Meet-up #2 in Seoul](http://www.meetup.com/electron-kr/events/226416682/)
 
