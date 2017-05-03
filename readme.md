@@ -1,8 +1,14 @@
-# Electron Korea Meetup
+# Electron Teck Talks in Korea
 
 > Electron Korea meet-up Materials such as presentation, sample code for code-lab and links
 
 ## Meetups
+
+### [Electron Teck Talks in Korea](http://onoffmix.com/event/96805)
+
+- [일렉트론 v1.0.0 이후 변경사항](https://speakerdeck.com/ragingwind/changeslog-since-v1-dot-0-electron-teck-talks-in-korea) - [@Jimmy Moon](github.com/ragingwind/) / [CodeBusking](https://www.youtube.com/channel/UCrKE8ihOKHxYHBzI0Ys-Oow)
+- [electron-forge 사용기](https://www.slideshare.net/JungYoungKim/electron-forge) - 김정용 / [엔트리교육연구소](https://playentry.org/#!/)
+- [자동 업데이트 서버 및 클라이언트 제작 스토리](http://slides.com/woongjae/deck-9#/) - 이웅재 / [스튜디오씨드](https://www.protopie.io/)
 
 ### [Electron Korea Meet-up #3 in Seoul](http://www.meetup.com/electron-kr/events/231588983//)
 
